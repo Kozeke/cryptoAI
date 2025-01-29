@@ -1,8 +1,8 @@
 {
-  "name": "Official Bill Gates",
-  "symbol": "BillGates",
-  "description": "The ultimate memecoin inspired by the legacy of Bill Gates, merging innovation, philanthropy, and tech brilliance. Celebrate the vision of a technology pioneer with Official Bill Gates!",
-  "image": "https://kozeke.github.io/cryptoAI/GA311881_Bill_Gates.jpg",
+  "name": "Chill Mexican Guy",
+  "symbol": "CHILLMEX",
+  "description": "The ultimate memecoin celebrating the laid-back vibes of a true chill Mexican guy. A tribute to siestas, sombreros, tacos, and a relaxed way of life!",
+  "image": "https://kozeke.github.io/cryptoAI/sombrero-guy2.jpg",
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Category",
-      "value": "Tech Genius Memes"
+      "value": "Meme & Culture"
     }
   ]
 }
