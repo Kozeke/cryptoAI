@@ -1,8 +1,8 @@
 {
-  "name": "Official China AI",
-  "symbol": "Official China AI",
-  "description": "The ultimate memecoin that merges China's rich culture with cutting-edge artificial intelligence. Celebrate innovation, humor, and prosperity with Official China AI!",
-  "image": "https://kozeke.github.io/cryptoSolana/featured-image-1.jpg",
+  "name": "Official Bill Gates",
+  "symbol": "BillGates",
+  "description": "The ultimate memecoin inspired by the legacy of Bill Gates, merging innovation, philanthropy, and tech brilliance. Celebrate the vision of a technology pioneer with Official Bill Gates!",
+  "image": "https://kozeke.github.io/cryptoAI/GA311881_Bill_Gates.jpg",
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Category",
-      "value": "Cultural AI Memes"
+      "value": "Tech Genius Memes"
     }
   ]
 }
